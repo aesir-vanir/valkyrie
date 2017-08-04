@@ -1,0 +1,4 @@
+#!/bin/sh
+cd baldr && cargo clippy -- -D clippy-pedantic && cd ..
+cd mimir && cargo clippy -- -D clippy-pedantic && cd ..
+cd tyr && cargo clippy -- -D clippy-pedantic && cd ..

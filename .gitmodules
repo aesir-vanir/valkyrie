@@ -1,0 +1,9 @@
+[submodule "tyr"]
+	path = tyr
+	url = git@github.com:aesir-vanir/tyr.git
+[submodule "baldr"]
+	path = baldr
+	url = git@github.com:aesir-vanir/baldr.git
+[submodule "mimir"]
+	path = mimir
+	url = git@github.com:aesir-vanir/mimir.git
