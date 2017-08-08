@@ -2,3 +2,4 @@
 cd baldr && cargo clippy -- -Dclippy_pedantic && cd ..
 cd mimir && cargo clippy -- -Dclippy_pedantic && cd ..
 cd tyr && cargo clippy -- -Dclippy_pedantic && cd ..
+cd vidar && cargo clippy -- -Dclippy_pedantic && cd ..
