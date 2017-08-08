@@ -7,3 +7,6 @@
 [submodule "mimir"]
 	path = mimir
 	url = git@github.com:aesir-vanir/mimir.git
+[submodule "vidar"]
+	path = vidar
+	url = git@github.com:aesir-vanir/vidar.git
