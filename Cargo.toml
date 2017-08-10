@@ -1,2 +1,6 @@
 [workspace]
 members = ["baldr", "mimir", "tyr", "vidar"]
+
+[replace]
+"vidar:0.1.0" = { path = "vidar" }
+"mimir:0.1.2" = { path = "mimir" }
