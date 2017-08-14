@@ -2,5 +2,6 @@
 members = ["baldr", "mimir", "tyr", "vidar"]
 
 [replace]
-"vidar:0.1.0" = { path = "vidar" }
+"derive_builder:0.5.0" = { path = "../rust-derive-builder/derive_builder" }
 "mimir:0.2.0" = { path = "mimir" }
+"vidar:0.1.0" = { path = "vidar" }
