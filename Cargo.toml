@@ -1,8 +1,2 @@
 [workspace]
 members = ["baldr", "mimir", "tyr", "vidar"]
-
-[patch.crates-io.mimir]
-path = "mimir"
-
-[patch.crates-io.derive_builder]
-path = "../rust-derive-builder/derive_builder"
